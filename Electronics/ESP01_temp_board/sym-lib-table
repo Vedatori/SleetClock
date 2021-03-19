@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP01_temp_board-rescue)(type Legacy)(uri ${KIPRJMOD}/ESP01_temp_board-rescue.lib)(options "")(descr ""))
+  (lib (name ESP8266)(type Legacy)(uri ${KIPRJMOD}/kicad-ESP8266-master/ESP8266.lib)(options "")(descr ""))
+)

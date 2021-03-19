@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ESP32-DEVKITC-32D)(type Legacy)(uri "${KIPRJMOD}/ESP32 lib/ESP32-DEVKITC-32D.mod")(options "")(descr ""))
+  (lib (name "Nokia 5110 display")(type KiCad)(uri "${KIPRJMOD}/Nokia 5110 display.pretty")(options "")(descr ""))
+  (lib (name Vedatori_logo_component)(type KiCad)(uri ${KIPRJMOD}/../Vedatori_logo_component)(options "")(descr ""))
+  (lib (name "ESP32 dev board")(type KiCad)(uri "D:/Vedatori/SleetClock/Electronics/ESP32 dev board")(options "")(descr ""))
+)

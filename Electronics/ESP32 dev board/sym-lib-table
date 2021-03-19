@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ESP32-DEVKITC-32D)(type Legacy)(uri "${KIPRJMOD}/ESP32 lib/ESP32-DEVKITC-32D.lib")(options "")(descr ""))
+  (lib (name Nokia_5110)(type Legacy)(uri "${KIPRJMOD}/Nokia 5110 lib/Nokia 5110.lib")(options "")(descr ""))
+  (lib (name ESP32-dev-board-rescue)(type Legacy)(uri "${KIPRJMOD}/ESP32 dev board-rescue.lib")(options "")(descr ""))
+  (lib (name "ESP32 dev board")(type Legacy)(uri "${KIPRJMOD}/ESP32 dev board.lib")(options "")(descr ""))
+)
